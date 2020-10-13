@@ -1,7 +1,7 @@
 # Install Instructions
 To run first install python. This was run with Python 3.8.
  - Create and activate virtual enviroment
- - Install dependencies (only used numpy, matplotlib and pandas)
+ - Install dependencies (I installed numpy, matplotlib, sklearn (only for getting the dataset) and pandas, each package has its own dependencies):
  `pip install -r requirements.txt`
  - Run:
  `python src/__init__.py`
